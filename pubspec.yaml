@@ -1,0 +1,14 @@
+name: traindown_cli
+description: A Command Line Interface (CLI) to help you manage your Traindown files
+homepage: https://www.traindown.com/
+version: 1.0.0
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dependencies:
+  args: ^1.6.0
+  traindown: ^1.2.0
+  shelf: ^0.7.5
+dev_dependencies:
+  pedantic:
+  mockito:
+  test:
